@@ -1,0 +1,54 @@
+
+
+body{
+  background-color: #e6f2ff;
+  text-align: center;
+}
+
+
+p{
+  color: black;
+  font-style: normal;
+  text-align: center;
+}
+
+h1{
+  text-align: center;
+  color: #3034b8;
+}
+
+
+ol{
+  text-align: left;
+  color: black;
+}
+
+ol a {
+  text-decoration: underline;
+  color: black;
+}
+
+#maincontent{
+  margin: auto;
+  width: 100%;
+  text-align: center;
+  color: #3034b8;
+ 
+  
+}
+
+#results{
+  float:left;
+  width:100%;
+  
+  
+}
+
+
+
+.classNameHere{
+  color: white;
+  font-style:italic;
+}
+
+
